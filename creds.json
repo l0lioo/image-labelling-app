@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "linen-adapter-377617",
+  "private_key_id": "ec57dfaacc3feda72af4e9a4f4c591f02718f5cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZLqQYIEKwAerR\nsQk00Jb1B+NxHQ16f9RrlDKyt/ogaW5lBJk3WkoGRGIiDxvPLJqkGz4Tftwk1sIu\nQCDeCz3ykTNRNPulvw8VIThW/WycY6Px4Nccq6W+mbNN7MHc/MkWUJAeqsCln45Q\n2vHzNpn2DCXuDWRBWKxX1LUyySMeKF4qwjMhOly1CInWJnRLg/KMH/vPu7AnYZag\naHRelkLwoSqpJc52hHAHQuk1ODhsUv0k0dXJmL00K0GYwJ7MYv76u8x/glwxveGx\nHTYUSt3xWtYjhbynoPSW709Fwd3ydqTjI5LuzewpDYGQsgaQh/4wGSoY4f2MoJPz\n5k+/erVxAgMBAAECggEAC4txmBTkWcYHN88PKdEXs3do+5csMyGLtaDpckE942/2\nvzvJvVt7bT39pGH9n09WB0y7ULZUqp0Z7Ojt4TY5ML0jQDlNRvhfj2Dd0WaPpzi2\nPC5NIA7KstL8KcEQelJ96EXhmsIVO1ZLYEokBofEsj/HowmU1vzzHjp8foucrzLP\nTVzq1B/qeI6RAA1JszWOfJGT6wNjpgg5CZKLaaIKKYoNGbAKpRORskGI/9w+Z2YK\n9rXXfEjJ1uMdHfEmSJWz5qi75XzPjhMGjQWpR72Ip63rp7H/2UssX9pm9wCQriCI\nROhFDw87+Goez2Yj84eH3ELUgJPIbpU1+XIl2/u4DQKBgQDJoP6eF6Nrf66D4B4m\nNTv/mS+v21nMduKUqfKzi5pBkqinmPIoSfeAP+SXl1Yuv7JeAQ7OBSD6q6nfWftY\nPtt6e9OagzgWUHHOAw1GWaxrhl7FC+GXfldTvBILBz+pK2Y0HPIhp4Z/q7jBK7qP\na3dT10zUWV1bCyr8ZoUfVJG5nQKBgQDCfTxZNfgXk6dm8PohJptpIJJHO7+7UXJy\nxI6AsElvxfS/QEraArZ9bPCBGSJo2izx32vk+F/Bnfpx4cY1tYD2OvOEZXEhTqQJ\n1G5hZYzROrbbU3HXlTjNBoQ7h13ghLYOCqvQcljm3WSMR1KW/5E1d/oS8cPkepxE\nWC7cDtSc5QKBgBsWCZ5rRoTWbjdBEEvJsvmvNnzFVtbk0aNvAS+lfV95uDZrkXxg\nE2OjMa47olQ9ZFTEh5ydi8Sg8v0SNXWxXAKkR9Tl887rl545QrtEqKj5MBoAcpnL\nWyfgh/v7SU4MinpNuSlUO/lCtFse6L0DjtAwiB2us5/bbDbj/tYqojjxAoGAQQSG\n6TfukUsuOm6y3+Q9Lh7SZ/fkd+WZgh6NmR3V3wTpdgozO8COa03A9ReG9lCBl/Zd\n5nTV5i8+61VT4t6jly1L/WXANSdKFXMr12mQct3TBW1W8IAVNg1IpXHygz06c2VD\n3PJtH/jBRVgOlyYm0B4kvrKOD1Kh7QMh3zUiBLUCgYASkhYiSalJT5+v84CWjtp9\ncRdrECGRaDi22YaPJDaDNwfMIpqT33qjLtLAyNWi03NUo4vCoNZpMyWN2Uq08gKm\nzEnzV5Anl/9inkBUQC/HQYZFbykzIM6lpaXmSmdJWgU+mxYXXEoEovxJ3Prqyavi\n46n9j1z7RZKjmnHZXjTBqg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "le-parkour-admin@linen-adapter-377617.iam.gserviceaccount.com",
+  "client_id": "112214721234172140045",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/le-parkour-admin%40linen-adapter-377617.iam.gserviceaccount.com"
+}

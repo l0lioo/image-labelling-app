@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Image Labeling App</title>
+  </head>
+  <body>
+    <h1>Image Labeling App</h1>
+
+    <form id="image-form">
+      <input type="file" id="image-file" accept="image/*">
+      <button type="submit">Submit</button>
+    </form>
+
+    <div id="labels"></div>
+
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-functions.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

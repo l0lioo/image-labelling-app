@@ -1,0 +1,16 @@
+package.json
+
+{
+  "name": "image-labeling-app",
+  "version": "1.0.0",
+  "description": "A Firebase and Google Cloud Vision app that labels images.",
+  "scripts": {
+    "start": "firebase serve --only functions",
+    "deploy": "firebase deploy --only functions"
+  },
+  "dependencies": {
+    "firebase-admin": "^9.0.0",
+    "firebase-functions": "^4.0.1",
+    "@google-cloud/vision": "^2.2.0"
+  }
+}
